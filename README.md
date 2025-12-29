@@ -18,3 +18,7 @@ A biometric access control system using computer vision and machine learning.
 
 ## Status
 🚧 Phase 1: Project Setup Completed
+
+## Python Version
+This project requires Python 3.10 due to dlib compatibility.
+
